@@ -43,5 +43,11 @@ The Random Forest model performed best with:
 2. Open the Jupyter notebook
 3. Run all cells to reproduce the analysis
 
-## Author
+## 👨‍💻 Author
 [D NEHARIKA]
+- GitHub: [@Neharika1580](https://github.com/Neharika1580/customer-churn-prediction)
+- LinkedIn: [Your Profile](www.linkedin.com/in/neharika--1o2323)
+- Email:neharika0815@gmail.com
+
+## 📄 License
+This project is licensed under the MIT License.
